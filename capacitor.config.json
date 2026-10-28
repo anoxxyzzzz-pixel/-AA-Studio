@@ -1,0 +1,8 @@
+{
+  "appId": "id.aastudio.app",
+  "appName": "AA Studio",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
